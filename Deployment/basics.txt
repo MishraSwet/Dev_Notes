@@ -1,0 +1,3 @@
+We Deploy on cloud(VM/Virtual Machine) rather than purchasing the infrastructure we use an service/rent a server from a provider..
+
+We need to host our app on the VM(cloud)
