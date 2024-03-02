@@ -1,0 +1,4 @@
+SQL - Relational/Table-Like Database with strict schema
+Atomicity - Break in to atoms(smallest individual part)
+One-One - EG:If each card holder can only have 1 card and 1 card can have only 1 holder(PAN)
+One-Many - EG:If each card holder can have multiple cards but each card can have atmost 1 holder.(joint account)
