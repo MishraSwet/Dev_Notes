@@ -1,0 +1,5 @@
+Docker lets us runs program inside our computer with needing for us to install it.
+It runs the program inside a container(a virutal mini computer inside our computer)
+A container has its own processing,file-system,network etc
+A request to the port of a container doest necessarily transport the request to the port of our pc for that we do port forwarding
+To run programs we look for docker images to run which consist of all the instructions to run a program..
