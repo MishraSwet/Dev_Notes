@@ -3,3 +3,6 @@ It runs the program inside a container(a virutal mini computer inside our comput
 A container has its own processing,file-system,network etc
 A request to the port of a container doest necessarily transport the request to the port of our pc for that we do port forwarding
 To run programs we look for docker images to run which consist of all the instructions to run a program..
+We Use Docker run to run docker files
+docker ps command to look for all open/running docker processes(containers)
+docker kill container id to stop/delete container
