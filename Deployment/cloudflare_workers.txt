@@ -2,3 +2,6 @@ Cloudflare workers is the serverless features provided by Cloudflare similiar to
 Serverless scales depending upon the load and no fixed cost is associated its easier to setup and we pay as per the number of requests.
 It does take time to cold-start as for the first request a server needs to be started-up.
 
+Edge features are serverless features..
+Workers works on its own runtime rather than node so express and prisma dont work directly with workers due to their dependency on nodejs.
+we use hono as an alternative to express and we use prisma with some changes..
