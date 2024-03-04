@@ -1,0 +1,4 @@
+Cloudflare workers is the serverless features provided by Cloudflare similiar to AWS Lambda.
+Serverless scales depending upon the load and no fixed cost is associated its easier to setup and we pay as per the number of requests.
+It does take time to cold-start as for the first request a server needs to be started-up.
+
